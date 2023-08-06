@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531738821754",
+    "firebase_url": "https://stepcounter-aac85-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stepcounter-aac85",
+    "storage_bucket": "stepcounter-aac85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531738821754:android:d1904a7664b6ad1db2e7c3",
+        "android_client_info": {
+          "package_name": "com.anonymous.StepCounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531738821754-o9mfagfb0b70777j6d6b30drrv158tgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMBNsFWmpzsow0U55WOnbbEd7XQ31dGl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531738821754-o9mfagfb0b70777j6d6b30drrv158tgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
